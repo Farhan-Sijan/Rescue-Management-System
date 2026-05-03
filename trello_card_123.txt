@@ -1,1 +1,0 @@
-Card #123: Design reports and analytics dashboard for response time, past incidents, and team performance.
